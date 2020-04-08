@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'ptmadsjorgensen@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,21 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    mads:
+      name:           Mads E. Falch Jørgensen
+      site:           https://madsjorgensen.no
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hei, jeg heter Mads og har en Bachelor i anvendt psykologi, og drømmer om en master i Psykologi med fokus på helse, utviklig og kultur. I tillegg er jeg medeier av et PT-studio hvor jeg til daglig jobber som personlig trener"
+      email:          ptmadsjorgensen@gmail.com
+      twitter:        https://twitter.com/madsefjørgensen
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    andrine:
+      name:           Andrine Eileen Støver
+      site:           https://andrineeileen.no
       avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Personlig trener og en jevnt over veldig fornuftig person!"
+      email:          ptandrine@gmail.com
+      Instagram:        https://instagram.com/andrineeileen
  
 # Defaults
 defaults:
