@@ -4,6 +4,7 @@ description: 'Et sted for de som har interesse for temaer innen psykologi.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
+
 email: 'ptmadsjorgensen@gmail.com'
 
 include: ["_pages"]
