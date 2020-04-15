@@ -17,7 +17,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-authors:
+Skribentene:
     mads:
       name:           Mads E. Falch Jørgensen
       site:           https://madsjorgensen.no
@@ -29,7 +29,7 @@ authors:
     andrine:
       name:           Andrine Eileen Støver
       site:           https://andrineeileen.no
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         /assets/images/avatar-andrine.jpg
       bio:            "Personlig trener og en jevnt over veldig fornuftig person!"
       email:          ptandrine@gmail.com
       Instagram:        https://instagram.com/andrineeileen
