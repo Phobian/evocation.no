@@ -1,6 +1,6 @@
 # Site
-name: 'Psykoblogg'
-description: 'Et sted for de som har interesse for temaer innen psykologi.'
+name: 'Evocation.no'
+description: 'Min digitale hippocampus'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
@@ -17,22 +17,22 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-Skribentene:
-    mads:
-      name:           Mads E. Falch Jørgensen
-      site:           https://madsjorgensen.no
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hei, jeg heter Mads og har en Bachelor i anvendt psykologi, og drømmer om en master i Psykologi med fokus på helse, utviklig og kultur. I tillegg er jeg medeier av et PT-studio hvor jeg til daglig jobber som personlig trener"
+authors:
+    sal:
+      name:           Mads
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/mads1.jpg
+      bio:            "Hei, jeg heter Mads og er eieren av denne nettsiden. I disse dager tar jeg en Master i psykologi ved Universitetet i Oslo, og hvor jeg tenkte å bruke denne siden som er forlengelse av min egen hukommelse."
       email:          ptmadsjorgensen@gmail.com
-      twitter:        https://twitter.com/madsefjørgensen
-
-    andrine:
-      name:           Andrine Eileen Støver
-      site:           https://andrineeileen.no
-      avatar:         /assets/images/avatar-andrine.jpg
-      bio:            "Personlig trener og en jevnt over veldig fornuftig person!"
-      email:          ptandrine@gmail.com
-      Instagram:        https://instagram.com/andrineeileen
+      twitter:        https://twitter.com/madsfjorgensen
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+    
  
 # Defaults
 defaults:

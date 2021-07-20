@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Selvfølelse"
-author: andrine 
+author: jane 
 categories: [ Refleksjon]
 image: assets/images/andrine1.jpg
 tags: featured
