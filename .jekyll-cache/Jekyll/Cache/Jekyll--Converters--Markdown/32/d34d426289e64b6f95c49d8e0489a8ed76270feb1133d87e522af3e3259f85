@@ -1,6 +1,4 @@
-I"�<p>There are lots of powerful things you can do with the Markdown editor</p>
-
-<p>If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
+I"�<p>There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
 
 <p>As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.</p>
 
@@ -25,7 +23,7 @@
 
 <p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
 
-<p><img src="/mundana-theme-jekyll/assets/images/8.jpg" alt="walking" /></p>
+<p><img src="/evocation.no/assets/images/8.jpg" alt="walking" /></p>
 
 <h2 id="reference-lists">Reference lists</h2>
 

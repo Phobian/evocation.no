@@ -3,7 +3,7 @@ name: 'Evocation.no'
 description: 'Min digitale hippocampus'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/evocation.no'
 
 email: 'ptmadsjorgensen@gmail.com'
 
@@ -18,9 +18,9 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    mads:
       name:           Mads
-      site:           https://www.wowthemes.net
+      site:         
       avatar:         /assets/images/mads1.jpg
       bio:            "Hei, jeg heter Mads og er eieren av denne nettsiden. I disse dager tar jeg en Master i psykologi ved Universitetet i Oslo, og hvor jeg tenkte å bruke denne siden som er forlengelse av min egen hukommelse."
       email:          ptmadsjorgensen@gmail.com
@@ -32,6 +32,13 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+    andrine:
+      name:           Andrine
+      site:           http://andrineeileen.no/
+      avatar:         /assets/images/avatar-andrine.jpg
+      bio:            "Personlig trening og fremtidig sosialantropolog"
+      email:          fakemail@gmail.com
+      twitter:      
     
  
 # Defaults
@@ -42,7 +49,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: mads
       avatar: /assets/images/avatar1.jpg
       
   # all pages

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "En reise gjennom mitt hode: evocation.no"
-author: Mads
+author: mads
 categories: [ minne, hukommelsen, opprinnelse ]
 image: assets/images/home.jpg
 tags: [sticky]

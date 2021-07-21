@@ -1,9 +1,4 @@
----
-title: "Andrine"
-layout: default
-permalink: "/author-andrine.html"
----
-<div class="container">
+I"P<div class="container">
 <div class="row justify-content-center">
     <div class="col-md-8">        
         <div class="row align-items-center mb-5">
@@ -13,7 +8,7 @@ permalink: "/author-andrine.html"
                 <p class="excerpt">{{ site.authors.andrine.bio }}</p>
             </div>
             <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.andrine.name }}" src="{{site.baseurl}}/{{ site.authors.andrine.avatar }}" class="rounded-circle" height="100" width="100">
+                <img alt="{{ site.authors.andrine.name }}" src="{{site.baseurl}}/{{ site.authors.andrine.avatar }}" class="rounded-circle" height="100" width="100" />
             </div>
         </div>
         <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
@@ -24,3 +19,4 @@ permalink: "/author-andrine.html"
     </div>
 </div>
 </div>
+:ET
